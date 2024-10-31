@@ -25,6 +25,8 @@ Flipper Zero-like device for pentesting and fun :)
 - 2x Type C interface for Charging, OTG, Serial, JTAG, HID
 - Expansion Port
 
+## Schematic
+![Schematic](/PCB/Schematic.png)
 
 ## Software
 Waiting to refine the pcb design, add more features and then finally order the PCBs to work on the software properly. Currently the dynamic menu system has been implemented along with app support.

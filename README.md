@@ -25,8 +25,21 @@ Flipper Zero-like device for pentesting and fun :)
 - 2x Type C interface for Charging, OTG, Serial, JTAG, HID
 - Expansion Port
 
+## Expansion Port
+- I2C
+- Serial
+- General Purpose port
+### Off-the-shelf Module Compatibility 
+The pinouts for the expansion ports are made so that readily available modules can be directly attached but since chinese modules don't follow conventions sometimes, I'll maintain this compatibility list.
+#### NFC
+- PN532 - I2C
+
+#### RF
+- FS1000A
+
 ## Schematic
 ![Schematic](/PCB/Schematic.png)
 
 ## Software
-Waiting to refine the pcb design, add more features and then finally order the PCBs to work on the software properly. Currently the dynamic menu system has been implemented along with app support.
+> **Current State** : Waiting to refine the pcb design, add more features and then finally order the PCBs to work on the software properly. Currently the dynamic menu system has been implemented along with app support.
+Menu Layou

@@ -42,4 +42,5 @@ The pinouts for the expansion ports are made so that readily available modules c
 
 ## Software
 > **Current State** : Waiting to refine the pcb design, add more features and then finally order the PCBs to work on the software properly. Currently the dynamic menu system has been implemented along with app support.
-Menu Layou
+
+Firmware for the Useraid Pocket can be found [here.](https://github.com/useraid/UOSPocket) It is currently in design phase and I am waiting to refine the hardware first to start working on the firmware.

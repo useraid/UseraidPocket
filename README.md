@@ -10,7 +10,7 @@ Flipper Zero-like device for pentesting and fun :)
 - ESP32 S3 Wroom Module with external Antenna (Non U Modules are also footprint compatible though)
 - 1.69" ST7789 TFT with adjustable backlight
 - SD Card Interface
-- Attiny814 as secondary MCU
+- L86 GPS + Glonass Module
 - 18650 for fast swapping and high density
 - Built in Charging and battery protection
 - IR LED 4.5mW

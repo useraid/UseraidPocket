@@ -35,7 +35,13 @@ The pinouts for the expansion ports are made so that readily available modules c
 - PN532 - I2C
 
 #### RF
-- FS1000A
+- FS1000A 
+
+#### Environmental 
+- BME280 - I2C
+
+#### Display
+- 1.3" I2C OLED - I2C
 
 ## Schematic
 ![Schematic](/PCB/Schematic.png)
